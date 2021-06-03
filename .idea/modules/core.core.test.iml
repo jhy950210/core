@@ -12,6 +12,7 @@
     <orderEntry type="module" module-name="core.core.main" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-test:2.4.5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:2.4.5" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Gradle: org.projectlombok:lombok:1.18.20" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-test-autoconfigure:2.4.5" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-test:2.4.5" level="project" />
@@ -58,4 +59,5 @@
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.jupiter:junit-jupiter-engine:5.7.1" level="project" />
     <orderEntry type="library" scope="RUNTIME" name="Gradle: org.junit.platform:junit-platform-engine:1.7.1" level="project" />
   </component>
+  <component name="TestModuleProperties" production-module="core.main" />
 </module>
